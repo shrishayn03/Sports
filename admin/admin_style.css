@@ -1,0 +1,43 @@
+@charset "utf-8";
+body
+{
+	color:black;
+	padding:0;
+	margin:0;
+
+background:url(im.jpg)
+}
+
+header
+{
+width:100%;
+height:100px;
+
+text-align:center;
+padding:10px;
+border-bottom:2px solid blue;
+background:url(admin.jpg)
+	
+}
+
+
+
+
+aside{
+
+float:left;
+background:aqua;
+width:250px;
+height:600px;
+border-right:2px solid green;		
+text-align:center;
+	
+background:url(f1.jpg)	
+	
+	}
+
+
+aside a:link a:visited{
+	color:#C60;
+	font-family:"comic sans MS", cursive;
+}

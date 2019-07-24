@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Advertisements>
+	<Ad>
+		<Imageurl>-/images/ad1.jpg</Imageurl>
+		<Navigateurl>#</Navigateurl>
+	</Ad>
+	<Ad>
+		<Imageurl>-/images/ad2.jpg</Imageurl>
+		<Navigateurl>#</Navigateurl>
+	</Ad>
+	<Ad>
+		<Imageurl>-/images/ad3.jpg</Imageurl>
+		<Navigateurl>#</Navigateurl>
+	</Ad>
+	<Ad>
+		<Imageurl>-/images/ad4.jpg</Imageurl>
+		<Navigateurl>#</Navigateurl>
+	</Ad>
+</Advertisements>
